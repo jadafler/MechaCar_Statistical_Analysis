@@ -8,4 +8,22 @@ Module 15
 <li> The model does effectively predict the MPG as the r-squared value is .71 which means that 70% of the predictions will be correct using the linear model. </li>
 <br>
 <br>
-<img src="Images/Summary.png" alt="MPG LM Summary">
+<img src="Images/Summary_Del_1.png" alt="MPG LM Summary">
+
+## Summary Statistics on Suspension Coils
+This summary was created to show the results from multiple production lots; the weight capacities of multiple suspension coils were tested to determine consistency throughout the three lots. The variance is reported at 62.29356 which falls within the 100 pounds per square inch. 
+<br>
+<br>
+<img src="Images/Summary_Del_2.png" alt="Suspension Summary">
+<br>
+<br>
+ 
+### Results by Lot
+Though the summary shows a variance within the 100 pounds per square inch, Lot 3 is over with a variance of approximately 170.29.
+<br>
+<br>
+<img src="Images/Variance_Del_2.png" alt="By Lot Summary">
+
+
+
+ 
