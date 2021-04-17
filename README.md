@@ -24,6 +24,12 @@ Though the summary shows a variance within the 100 pounds per square inch, Lot 3
 <br>
 <img src="Images/Variance_Del_2.png" alt="By Lot Summary">
 
+## T-Tests on Suspension Coils
+The test results show that the average for the total production and individually the production from Lot1 and Lot2 return a p-value above .05 not rejecting the hypothesis concluding that there is no statistical difference between the MechaCar production and the production standard 1500 PSI. However, Lot3 returned a p-value of approximately .04 causing the rejection of the hypothesis and concluding that there is a statistical difference. 
+
+<img src="Images/Lot1_Test.png" alt="Lot1 Test">
+<img src="Images/Lot2_Test.png" alt="Lot2 Test">
+<img src="Images/Lot3_Test.png" alt="Lot3 Test">
 
 
  
