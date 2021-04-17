@@ -31,5 +31,10 @@ The test results show that the average for the total production and individually
 <img src="Images/Lot2_Test.png" alt="Lot2 Test">
 <img src="Images/Lot3_Test.png" alt="Lot3 Test">
 
+## Study Design: MechaCar vs Competition
+In looking at MechaCar vehicles marketability; many metrics need to be measured against the competitors' vehciles. Metrics include Fuel Economy, Horsepower, AWD feature, and capacity (both seating and cargo). The null hypothesis is that the MechaCar vehicles will have no statistical difference against the competitors' options. Since we will be testing observations in multiple datasets and/or comparing measurements on same objects, a pair t-test can be used. 
+
+To measure the metrics we will need to collect the following data from both MechaCar and competitors' vehicle options: MPG, horsepower, AWD/4WD/Option features, seating capacity, and cargo capacity. 
+
 
  
